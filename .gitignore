@@ -1,0 +1,5 @@
+.DS_Store
+.buildResult/
+*.wgt
+author-signature.xml
+signature1.xml

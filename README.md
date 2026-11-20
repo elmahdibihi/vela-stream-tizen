@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="screenshots/connect-account.png" alt="Vela Stream Connect Account Screen" width="820"/>
+<img src="screenshots/home.png" alt="Vela Stream Home Screen" width="820"/>
 
 </div>
 
